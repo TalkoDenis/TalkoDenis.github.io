@@ -5,7 +5,7 @@ body {
     transition: background-color 1s, color 1s, border-color 1s;
 }
 
-/* Стили для темной темы */
+/* Dark mode */
 .dark-mode {
     background-color: black;
     color: white;
@@ -28,20 +28,20 @@ nav a {
 }
 
 nav a:hover {
-    color: #ccc; /* Светло-серый для эффекта при наведении */
+    color: #ccc;
 }
 
 section {
     padding: 20px;
     margin: 10px;
-    background-color: #f4f4f4; /* Светло-серый фон для контента */
+    background-color: #f4f4f4;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s;
 }
 
 .dark-mode section {
-    background-color: #333; /* Темный фон для секций в темной теме */
+    background-color: #333;
 }
 
 footer {
@@ -51,12 +51,13 @@ footer {
     color: white;
     border-top: 2px solid #555;
 }
-/* Кнопка */
+
+/* Button */
 #themeToggle {
     width: 200px;
     height: 50px;
     font-size: 16px;
-    background-color: #444; /* Темно-серый фон */
+    background-color: #444;
     color: white;
     border: none;
     border-radius: 5px;
@@ -67,19 +68,18 @@ footer {
     transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
 }
 
-/* Эффекты для кнопки */
+/* Effects for the button */
 #themeToggle:hover {
-    background-color: #666; /* Слегка светлее при наведении */
+    background-color: #666;
     transform: scale(1.05);
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Легкая тень */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
-/* Эффект для ссылок в навигации */
 nav a:hover {
-    color: #ccc; /* Цвет при наведении */
+    color: #ccc;
 }
 
-/* Мобильная версия (для меньших экранов) */
+/* For mobil devises */
 @media (max-width: 600px) {
     header {
         padding: 10px;
@@ -98,13 +98,11 @@ nav a:hover {
     }
 }
 
-/* Исходное состояние элемента */
 .animated {
     transition: transform 1s ease-in-out;
 }
 
-/* Анимация увеличения элемента при наведении */
 .animated.hovered {
-    transform: scale(1.1); /* Увеличение на 10% */
+    transform: scale(1.1); 
 }
 

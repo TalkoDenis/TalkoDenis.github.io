@@ -1,33 +1,26 @@
-// Мировой список стран (общее количество стран в мире)
 const totalCountriesInWorld = 195;
 
-// Функция для загрузки данных из файла countries.json
 function loadCountryData() {
-    fetch('countries.json')  // Путь к файлу JSON
+    fetch('countries.json')
         .then(response => {
             if (!response.ok) {
-                throw new Error('Сетевой ответ не ок!');
+                throw new Error('Have problems!');
             }
-            return response.json();  // Преобразуем ответ в JSON
+            return response.json();
         })
         .then(countriesData => {
-            // Логируем загруженные данные
-            console.log('Данные загружены:', countriesData);
-            
             const share = calculateCountryShare(countriesData);
-            console.log(`Доля стран в списке: ${share.toFixed(2)}%`);
+            console.log(`Share countries is: ${share.toFixed(2)}%`);
         })
         .catch(error => {
-            console.error('Ошибка загрузки данных:', error);
+            console.error('Have problems with download:', error);
         });
 }
 
-// Функция для вычисления доли стран
 function calculateCountryShare(countriesData) {
-    // Получаем количество уникальных стран в списке
     const countryNames = [...new Set(countriesData.map(entry => entry.country))];
-    const countryCount = countryNames.length; // Количество уникальных стран
-    const share = (countryCount / totalCountriesInWorld) * 100; // Вычисляем долю в процентах
+    const countryCount = countryNames.length;
+    const share = (countryCount / totalCountriesInWorld) * 100;
     return share;
 }
 
