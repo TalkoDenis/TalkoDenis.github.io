@@ -13,7 +13,7 @@ This is my online portfolio, where you can learn more about my background, exper
 - **GitHub Pages**: Hosted the website using GitHub Pages.
 
 ## How to View
-1. Visit my GitHub Pages website: [talkodenis.github.io](https://TalkoDenis.github.io).
+1. Visit my GitHub Pages website: [TalkoDenis.github.io](https://TalkoDenis.github.io).
 2. You can see my personal portfolio, learn about my professional background, and explore the technologies I use.
 
 ## Contact
