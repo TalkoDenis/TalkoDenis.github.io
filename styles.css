@@ -27,10 +27,6 @@ nav a {
     transition: color 0.5s;
 }
 
-nav a:hover {
-    color: #ccc;
-}
-
 section {
     padding: 20px;
     margin: 10px;
@@ -81,6 +77,10 @@ nav a:hover {
 
 /* For mobil devises */
 @media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
     header {
         padding: 10px;
     }
@@ -97,6 +97,7 @@ nav a:hover {
         font-size: 14px;
     }
 }
+
 
 .animated {
     transition: transform 1s ease-in-out;
