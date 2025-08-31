@@ -1,17 +1,5 @@
 [
     {
-        "type": "city",
-        "name": "London",
-        "lat": 51.505,
-        "lng": -0.09
-    },
-    {
-        "type": "city",
-        "name": "New York",
-        "lat": 40.7128,
-        "lng": -74.006
-    },
-    {
         "type": "place",
         "name": "Eiffel Tower",
         "lat": 48.8584,
@@ -22,5 +10,359 @@
         "name": "Great Wall of China",
         "lat": 40.4319,
         "lng": 116.5704
+    },
+    {
+        "type": "city",
+        "name": "Moscow, Russia",
+        "lat": 55.7558,
+        "lng": 37.6176
+    },
+    {
+        "type": "city",
+        "name": "Saint Petersburg, Russia",
+        "lat": 59.9343,
+        "lng": 30.3351
+    },
+    {
+        "type": "city",
+        "name": "Lyubertsy, Russia",
+        "lat": 55.6906,
+        "lng": 37.9012
+    },
+    {
+        "type": "city",
+        "name": "Nizhny Novgorod, Russia",
+        "lat": 56.2965,
+        "lng": 43.9361
+    },
+    {
+        "type": "city",
+        "name": "Podolsk, Russia",
+        "lat": 55.4051,
+        "lng": 37.5324
+    },
+    {
+        "type": "city",
+        "name": "Mytishchi, Russia",
+        "lat": 55.9003,
+        "lng": 37.7091
+    },
+    {
+        "type": "city",
+        "name": "Irkutsk, Russia",
+        "lat": 52.297,
+        "lng": 104.2966
+    },
+    {
+        "type": "city",
+        "name": "Listvyanka, Russia",
+        "lat": 51.8957,
+        "lng": 104.8056
+    },
+    {
+        "type": "city",
+        "name": "Dubna, Russia",
+        "lat": 56.7486,
+        "lng": 37.1587
+    },
+    {
+        "type": "city",
+        "name": "Kazan, Russia",
+        "lat": 55.8304,
+        "lng": 49.0661
+    },
+    {
+        "type": "city",
+        "name": "Saratov, Russia",
+        "lat": 51.5335,
+        "lng": 46.0343
+    },
+    {
+        "type": "city",
+        "name": "Lipetsk, Russia",
+        "lat": 52.6114,
+        "lng": 39.5882
+    },
+    {
+        "type": "city",
+        "name": "Yelets, Russia",
+        "lat": 52.6115,
+        "lng": 38.5246
+    },
+    {
+        "type": "city",
+        "name": "Dmitrov, Russia",
+        "lat": 56.3502,
+        "lng": 37.5317
+    },
+    {
+        "type": "city",
+        "name": "Obninsk, Russia",
+        "lat": 55.0897,
+        "lng": 36.6111
+    },
+    {
+        "type": "city",
+        "name": "Vladimir, Russia",
+        "lat": 56.1381,
+        "lng": 40.4063
+    },
+    {
+        "type": "city",
+        "name": "Suzdal, Russia",
+        "lat": 56.2388,
+        "lng": 40.4321
+    },
+    {
+        "type": "city",
+        "name": "Sergiev Posad, Russia",
+        "lat": 56.3106,
+        "lng": 38.1409
+    },
+    {
+        "type": "city",
+        "name": "Pavlovsky Posad, Russia",
+        "lat": 55.7511,
+        "lng": 38.5633
+    },
+    {
+        "type": "city",
+        "name": "Alexandrov, Russia",
+        "lat": 56.7101,
+        "lng": 38.7028
+    },
+    {
+        "type": "city",
+        "name": "Pereslavl-Zalessky, Russia",
+        "lat": 56.7265,
+        "lng": 38.8517
+    },
+    {
+        "type": "city",
+        "name": "Mozhaysk, Russia",
+        "lat": 55.4236,
+        "lng": 36.7411
+    },
+    {
+        "type": "city",
+        "name": "Meshcherino, Russia",
+        "lat": 55.4065,
+        "lng": 37.7175
+    },
+    {
+        "type": "city",
+        "name": "Bor, Russia",
+        "lat": 55.7008,
+        "lng": 43.7967
+    },
+    {
+        "type": "city",
+        "name": "Vyshny Volochyok, Russia",
+        "lat": 57.4917,
+        "lng": 34.7108
+    },
+    {
+        "type": "city",
+        "name": "Ruza, Russia",
+        "lat": 55.7558,
+        "lng": 36.4458
+    },
+    {
+        "type": "city",
+        "name": "Pyatigorsk, Russia",
+        "lat": 44.0408,
+        "lng": 43.0581
+    },
+    {
+        "type": "city",
+        "name": "Yessentuki, Russia",
+        "lat": 44.0422,
+        "lng": 42.8778
+    },
+    {
+        "type": "city",
+        "name": "Mineralnye Vody, Russia",
+        "lat": 44.2203,
+        "lng": 43.1129
+    },
+    {
+        "type": "city",
+        "name": "Zheleznovodsk, Russia",
+        "lat": 44.0433,
+        "lng": 42.7167
+    },
+    {
+        "type": "city",
+        "name": "Kislovodsk, Russia",
+        "lat": 42.7111,
+        "lng": 41.7467
+    },
+    {
+        "type": "city",
+        "name": "Anapa, Russia",
+        "lat": 44.8911,
+        "lng": 37.3209
+    },
+    {
+        "type": "city",
+        "name": "Perm, Russia",
+        "lat": 58.0105,
+        "lng": 56.2294
+    },
+    {
+        "type": "city",
+        "name": "Yekaterinburg, Russia",
+        "lat": 56.8389,
+        "lng": 60.6057
+    },
+    {
+        "type": "city",
+        "name": "Chelyabinsk, Russia",
+        "lat": 55.1593,
+        "lng": 61.4028
+    },
+    {
+        "type": "city",
+        "name": "Zlatoust, Russia",
+        "lat": 55.1713,
+        "lng": 59.6702
+    },
+    {
+        "type": "city",
+        "name": "Kaliningrad, Russia",
+        "lat": 54.7104,
+        "lng": 20.4522
+    },
+    {
+        "type": "city",
+        "name": "Svetlogorsk, Russia",
+        "lat": 55.16,
+        "lng": 20.1072
+    },
+    {
+        "type": "city",
+        "name": "Kolomna, Russia",
+        "lat": 55.0939,
+        "lng": 38.7892
+    },
+    {
+        "type": "city",
+        "name": "Voskresensk, Russia",
+        "lat": 55.3443,
+        "lng": 38.6081
+    },
+    {
+        "type": "city",
+        "name": "Stupino, Russia",
+        "lat": 55.0897,
+        "lng": 38.0309
+    },
+    {
+        "type": "city",
+        "name": "Minsk, Belarus",
+        "lat": 53.9,
+        "lng": 27.5667
+    },
+    {
+        "type": "city",
+        "name": "Nesvizh, Belarus",
+        "lat": 53.1933,
+        "lng": 26.8014
+    },
+    {
+        "type": "city",
+        "name": "Kyiv, Ukraine",
+        "lat": 50.4501,
+        "lng": 30.5236
+    },
+    {
+        "type": "city",
+        "name": "Yevpatoria, Ukraine",
+        "lat": 45.2,
+        "lng": 33.3667
+    },
+    {
+        "type": "city",
+        "name": "Prague, Czech Republic",
+        "lat": 50.0755,
+        "lng": 14.4378
+    },
+    {
+        "type": "city",
+        "name": "Kutna Hora, Czech Republic",
+        "lat": 49.9481,
+        "lng": 15.2672
+    },
+    {
+        "type": "city",
+        "name": "Dresden, Germany",
+        "lat": 51.0504,
+        "lng": 13.7373
+    },
+    {
+        "type": "city",
+        "name": "Belgrade, Serbia",
+        "lat": 44.8176,
+        "lng": 20.4633
+    },
+    {
+        "type": "city",
+        "name": "Novi Sad, Serbia",
+        "lat": 45.2671,
+        "lng": 19.8335
+    },
+    {
+        "type": "city",
+        "name": "Podgorica, Montenegro",
+        "lat": 42.4411,
+        "lng": 19.2636
+    },
+    {
+        "type": "city",
+        "name": "Bar, Montenegro",
+        "lat": 42.0997,
+        "lng": 19.1122
+    },
+    {
+        "type": "city",
+        "name": "Dushanbe, Tajikistan",
+        "lat": 38.5598,
+        "lng": 68.7787
+    },
+    {
+        "type": "city",
+        "name": "Tashkent, Uzbekistan",
+        "lat": 41.2995,
+        "lng": 69.2401
+    },
+    {
+        "type": "city",
+        "name": "Istanbul, Turkey",
+        "lat": 41.0082,
+        "lng": 28.9784
+    },
+    {
+        "type": "city",
+        "name": "Sanya, China",
+        "lat": 18.2528,
+        "lng": 109.5116
+    },
+    {
+        "type": "city",
+        "name": "Tbilisi, Georgia",
+        "lat": 41.7151,
+        "lng": 44.8271
+    },
+    {
+        "type": "city",
+        "name": "Batumi, Georgia",
+        "lat": 41.6168,
+        "lng": 41.6271
+    },
+    {
+        "type": "city",
+        "name": "Stepantsminda, Georgia",
+        "lat": 42.0083,
+        "lng": 44.5947
     }
 ]
