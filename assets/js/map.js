@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
             attribution: "© OpenStreetMap contributors"
         }).addTo(map);
 
-        fetch("{{ '/assets/data/points.json' | relative_url }}")
+        fetch("{{ 'TalkoDenis.github.io/assets/data/points.json' | relative_url }}")
             .then(res => res.json())
             .then(points => {
                 points.forEach(p => {
