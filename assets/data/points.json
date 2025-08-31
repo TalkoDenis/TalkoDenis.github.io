@@ -1,0 +1,26 @@
+[
+    {
+        "type": "city",
+        "name": "London",
+        "lat": 51.505,
+        "lng": -0.09
+    },
+    {
+        "type": "city",
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+    },
+    {
+        "type": "place",
+        "name": "Eiffel Tower",
+        "lat": 48.8584,
+        "lng": 2.2945
+    },
+    {
+        "type": "place",
+        "name": "Great Wall of China",
+        "lat": 40.4319,
+        "lng": 116.5704
+    }
+]

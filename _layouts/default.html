@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -14,12 +14,14 @@
     <header>
         <nav>
             <ul>
-                <li><a href="{{ '/' | relative_url }}">Главная</a></li>
-                <li><a href="{{ '/about' | relative_url }}">Обо мне</a></li>
-                <li><a href="{{ '/contacts' | relative_url }}">Контакты</a></li>
+                <li><a href="{{ '/' | relative_url }}">Main</a></li>
+                <li><a href="{{ '/about' | relative_url }}">About me</a></li>
+                <li><a href="{{ '/contacts' | relative_url }}">Contacts</a></li>
+                <li><a href="{{ '/map' | relative_url }}">Map</a></li>
             </ul>
         </nav>
     </header>
+    <button id="themeToggle">Change Theme</button>
 
     <main>
         {{ content }}
@@ -30,6 +32,7 @@
     </footer>
 
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/theme_toggle.js' | relative_url }}"></script>
 </body>
 
 </html>

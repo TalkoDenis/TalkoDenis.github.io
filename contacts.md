@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Контакты"
+title: "Contacts"
 permalink: /contacts/
 ---
 
 # Контакты
 
-📧 Email: example@mail.com  
-📱 Telegram: @username
+<p>Email: <a href="mailto:talko.denis.andreevich@gmail.com">talko.denis.andreevich@gmail.com</a></p>
+<p>Telegram: <a href="https://t.me/talkoda" target="_blank">@talkoda</a></p>

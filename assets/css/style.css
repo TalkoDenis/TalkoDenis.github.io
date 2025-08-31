@@ -1,0 +1,108 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    transition: background-color 1s, color 1s, border-color 1s;
+}
+
+/* Dark mode */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #555;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.5s;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+}
+
+.dark-mode section {
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-top: 2px solid #555;
+}
+
+/* Button */
+#themeToggle {
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+/* Effects for the button */
+#themeToggle:hover {
+    background-color: #666;
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+nav a:hover {
+    color: #ccc;
+}
+
+/* For mobil devises */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    nav a {
+        display: block;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    #themeToggle {
+        width: 150px;
+        height: 40px;
+        font-size: 14px;
+    }
+}
+
+
+.animated {
+    transition: transform 1s ease-in-out;
+}
+
+.animated.hovered {
+    transform: scale(1.1);
+}

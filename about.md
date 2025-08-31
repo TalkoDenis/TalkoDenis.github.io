@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Обо мне"
+title: "About me"
 permalink: /about/
 ---
 
-# Обо мне
+# About me
 
-Меня зовут Денис.  
-Я учусь делать сайты на Jekyll.
+Hi! My name is Denis.
+I am a senior data analyst with extensive experience. I have worked in large companies across various industries, including retail and technology.
+Also I really like music and travelling.
