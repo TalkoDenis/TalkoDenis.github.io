@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }).addTo(map);
 
     // Загружаем JSON с точками
-    fetch("/assets/data/points.json")
+    fetch("TalkoDenis.github.io/assets/data/points.json")
         .then(response => response.json())
         .then(points => {
             points.forEach(point => {
