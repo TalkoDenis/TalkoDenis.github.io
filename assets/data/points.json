@@ -1,17 +1,5 @@
 [
     {
-        "type": "place",
-        "name": "Eiffel Tower",
-        "lat": 48.8584,
-        "lng": 2.2945
-    },
-    {
-        "type": "place",
-        "name": "Great Wall of China",
-        "lat": 40.4319,
-        "lng": 116.5704
-    },
-    {
         "type": "city",
         "name": "Moscow, Russia",
         "lat": 55.7558,
@@ -26,8 +14,8 @@
     {
         "type": "city",
         "name": "Lyubertsy, Russia",
-        "lat": 55.6906,
-        "lng": 37.9012
+        "lat": 55.6887,
+        "lng": 37.9011
     },
     {
         "type": "city",
@@ -38,32 +26,32 @@
     {
         "type": "city",
         "name": "Podolsk, Russia",
-        "lat": 55.4051,
-        "lng": 37.5324
+        "lat": 55.4131,
+        "lng": 37.5322
     },
     {
         "type": "city",
         "name": "Mytishchi, Russia",
-        "lat": 55.9003,
-        "lng": 37.7091
+        "lat": 55.9075,
+        "lng": 37.7028
     },
     {
         "type": "city",
         "name": "Irkutsk, Russia",
-        "lat": 52.297,
+        "lat": 52.2869,
         "lng": 104.2966
     },
     {
         "type": "city",
         "name": "Listvyanka, Russia",
-        "lat": 51.8957,
-        "lng": 104.8056
+        "lat": 51.9528,
+        "lng": 104.8706
     },
     {
         "type": "city",
         "name": "Dubna, Russia",
-        "lat": 56.7486,
-        "lng": 37.1587
+        "lat": 56.7497,
+        "lng": 37.1703
     },
     {
         "type": "city",
@@ -74,158 +62,164 @@
     {
         "type": "city",
         "name": "Saratov, Russia",
-        "lat": 51.5335,
+        "lat": 51.5336,
         "lng": 46.0343
     },
     {
         "type": "city",
         "name": "Lipetsk, Russia",
-        "lat": 52.6114,
-        "lng": 39.5882
+        "lat": 52.6111,
+        "lng": 39.5731
     },
     {
         "type": "city",
         "name": "Yelets, Russia",
-        "lat": 52.6115,
-        "lng": 38.5246
+        "lat": 52.6167,
+        "lng": 38.5333
     },
     {
         "type": "city",
         "name": "Dmitrov, Russia",
-        "lat": 56.3502,
-        "lng": 37.5317
+        "lat": 56.3417,
+        "lng": 37.5319
     },
     {
         "type": "city",
         "name": "Obninsk, Russia",
         "lat": 55.0897,
-        "lng": 36.6111
+        "lng": 36.5931
     },
     {
         "type": "city",
         "name": "Vladimir, Russia",
-        "lat": 56.1381,
-        "lng": 40.4063
+        "lat": 56.1291,
+        "lng": 40.4093
     },
     {
         "type": "city",
         "name": "Suzdal, Russia",
-        "lat": 56.2388,
-        "lng": 40.4321
+        "lat": 56.4236,
+        "lng": 40.4528
     },
     {
         "type": "city",
         "name": "Sergiev Posad, Russia",
-        "lat": 56.3106,
-        "lng": 38.1409
+        "lat": 56.3147,
+        "lng": 38.1358
     },
     {
         "type": "city",
         "name": "Pavlovsky Posad, Russia",
-        "lat": 55.7511,
-        "lng": 38.5633
+        "lat": 55.7667,
+        "lng": 38.6333
     },
     {
         "type": "city",
         "name": "Alexandrov, Russia",
-        "lat": 56.7101,
-        "lng": 38.7028
+        "lat": 55.7833,
+        "lng": 38.4167
     },
     {
         "type": "city",
         "name": "Pereslavl-Zalessky, Russia",
-        "lat": 56.7265,
-        "lng": 38.8517
+        "lat": 56.7000,
+        "lng": 38.8667
     },
     {
         "type": "city",
         "name": "Mozhaysk, Russia",
-        "lat": 55.4236,
-        "lng": 36.7411
+        "lat": 55.5000,
+        "lng": 36.8333
     },
     {
         "type": "city",
         "name": "Meshcherino, Russia",
-        "lat": 55.4065,
-        "lng": 37.7175
+        "lat": 55.5000,
+        "lng": 37.0000
     },
     {
         "type": "city",
         "name": "Bor, Russia",
-        "lat": 55.7008,
-        "lng": 43.7967
+        "lat": 56.0000,
+        "lng": 43.5000
     },
     {
         "type": "city",
         "name": "Vyshny Volochyok, Russia",
-        "lat": 57.4917,
-        "lng": 34.7108
+        "lat": 57.5000,
+        "lng": 34.0000
     },
     {
         "type": "city",
         "name": "Ruza, Russia",
-        "lat": 55.7558,
-        "lng": 36.4458
+        "lat": 55.5500,
+        "lng": 36.0000
     },
     {
         "type": "city",
         "name": "Pyatigorsk, Russia",
-        "lat": 44.0408,
-        "lng": 43.0581
+        "lat": 44.0428,
+        "lng": 42.7778
     },
     {
         "type": "city",
         "name": "Yessentuki, Russia",
-        "lat": 44.0422,
-        "lng": 42.8778
+        "lat": 44.0500,
+        "lng": 42.8667
     },
     {
         "type": "city",
         "name": "Mineralnye Vody, Russia",
-        "lat": 44.2203,
-        "lng": 43.1129
+        "lat": 44.2000,
+        "lng": 42.1000
     },
     {
         "type": "city",
         "name": "Zheleznovodsk, Russia",
-        "lat": 44.0433,
-        "lng": 42.7167
+        "lat": 44.0333,
+        "lng": 42.9000
     },
     {
         "type": "city",
         "name": "Kislovodsk, Russia",
-        "lat": 42.7111,
-        "lng": 41.7467
+        "lat": 42.7167,
+        "lng": 41.4333
     },
     {
         "type": "city",
         "name": "Anapa, Russia",
-        "lat": 44.8911,
-        "lng": 37.3209
+        "lat": 44.8833,
+        "lng": 37.3167
     },
     {
         "type": "city",
         "name": "Perm, Russia",
-        "lat": 58.0105,
-        "lng": 56.2294
+        "lat": 58.0104,
+        "lng": 56.2500
     },
     {
         "type": "city",
         "name": "Yekaterinburg, Russia",
         "lat": 56.8389,
-        "lng": 60.6057
+        "lng": 60.6056
     },
     {
         "type": "city",
         "name": "Chelyabinsk, Russia",
-        "lat": 55.1593,
-        "lng": 61.4028
+        "lat": 55.1644,
+        "lng": 61.4368
     },
     {
         "type": "city",
         "name": "Zlatoust, Russia",
-        "lat": 55.1713,
-        "lng": 59.6702
+        "lat": 55.1833,
+        "lng": 59.6333
+    },
+    {
+        "type": "city",
+        "name": "Kurma, Russia",
+        "lat": null,
+        "lng": null
     },
     {
         "type": "city",
@@ -236,26 +230,26 @@
     {
         "type": "city",
         "name": "Svetlogorsk, Russia",
-        "lat": 55.16,
-        "lng": 20.1072
+        "lat": 54.9333,
+        "lng": 20.3833
     },
     {
         "type": "city",
         "name": "Kolomna, Russia",
-        "lat": 55.0939,
-        "lng": 38.7892
+        "lat": 55.0906,
+        "lng": 38.7744
     },
     {
         "type": "city",
         "name": "Voskresensk, Russia",
-        "lat": 55.3443,
-        "lng": 38.6081
+        "lat": 55.3667,
+        "lng": 38.6167
     },
     {
         "type": "city",
         "name": "Stupino, Russia",
-        "lat": 55.0897,
-        "lng": 38.0309
+        "lat": 54.9167,
+        "lng": 37.6167
     },
     {
         "type": "city",
@@ -266,8 +260,8 @@
     {
         "type": "city",
         "name": "Nesvizh, Belarus",
-        "lat": 53.1933,
-        "lng": 26.8014
+        "lat": 53.2,
+        "lng": 26.5
     },
     {
         "type": "city",
@@ -278,7 +272,7 @@
     {
         "type": "city",
         "name": "Yevpatoria, Ukraine",
-        "lat": 45.2,
+        "lat": 45.2000,
         "lng": 33.3667
     },
     {
@@ -289,8 +283,8 @@
     },
     {
         "type": "city",
-        "name": "Kutna Hora, Czech Republic",
-        "lat": 49.9481,
+        "name": "Kutná Hora, Czech Republic",
+        "lat": 49.9480,
         "lng": 15.2672
     },
     {
@@ -320,14 +314,20 @@
     {
         "type": "city",
         "name": "Bar, Montenegro",
-        "lat": 42.0997,
-        "lng": 19.1122
+        "lat": 42.1000,
+        "lng": 19.1000
+    },
+    {
+        "type": "city",
+        "name": "Bijelo Polje, Montenegro",
+        "lat": 43.0333,
+        "lng": 19.3000
     },
     {
         "type": "city",
         "name": "Dushanbe, Tajikistan",
         "lat": 38.5598,
-        "lng": 68.7787
+        "lng": 68.7784
     },
     {
         "type": "city",
@@ -345,7 +345,7 @@
         "type": "city",
         "name": "Sanya, China",
         "lat": 18.2528,
-        "lng": 109.5116
+        "lng": 109.5115
     },
     {
         "type": "city",
@@ -356,13 +356,259 @@
     {
         "type": "city",
         "name": "Batumi, Georgia",
-        "lat": 41.6168,
-        "lng": 41.6271
+        "lat": 41.6400,
+        "lng": 41.6400
     },
     {
         "type": "city",
         "name": "Stepantsminda, Georgia",
-        "lat": 42.0083,
-        "lng": 44.5947
+        "lat": 42.4986,
+        "lng": 44.6497
+    },
+    {
+        "type": "city",
+        "name": "Sarajevo, Bosnia and Herzegovina",
+        "lat": 43.8486,
+        "lng": 18.3564
+    },
+    {
+        "type": "city",
+        "name": "Petrovaradin, Serbia",
+        "lat": 45.2671,
+        "lng": 19.8335
+    },
+    {
+        "type": "city",
+        "name": "Bečej, Serbia",
+        "lat": 45.6100,
+        "lng": 19.6917
+    },
+    {
+        "type": "city",
+        "name": "Bečej, Serbia",
+        "lat": 45.6163,
+        "lng": 20.0333
+    },
+    {
+        "type": "city",
+        "name": "Zvornik, Bosnia and Herzegovina",
+        "lat": 44.3854,
+        "lng": 19.1028
+    },
+    {
+        "type": "city",
+        "name": "Subotica, Serbia",
+        "lat": 46.1004,
+        "lng": 19.6676
+    },
+    {
+        "type": "city",
+        "name": "Pačir, Serbia",
+        "lat": 45.9000,
+        "lng": 19.4330
+    },
+    {
+        "type": "city",
+        "name": "Sombor, Serbia",
+        "lat": 45.7830,
+        "lng": 19.1170
+    },
+    {
+        "type": "city",
+        "name": "Aranđelovac, Serbia",
+        "lat": 44.3000,
+        "lng": 20.5670
+    },
+    {
+        "type": "city",
+        "name": "Apatin, Serbia",
+        "lat": 45.6667,
+        "lng": 18.9833
+    },
+    {
+        "type": "city",
+        "name": "Tuzla, Bosnia and Herzegovina",
+        "lat": 44.5381,
+        "lng": 18.6761
+    },
+    {
+        "type": "city",
+        "name": "Bijeljina, Bosnia and Herzegovina",
+        "lat": 44.5500,
+        "lng": 19.1667
+    },
+    {
+        "type": "city",
+        "name": "Vršac, Serbia",
+        "lat": 45.1167,
+        "lng": 21.3000
+    },
+    {
+        "type": "city",
+        "name": "Gudurica, Serbia",
+        "lat": 44.8500,
+        "lng": 20.3000
+    },
+    {
+        "type": "city",
+        "name": "Beli Potok, Serbia",
+        "lat": 44.6500,
+        "lng": 20.5500
+    },
+    {
+        "type": "city",
+        "name": "Golubac, Serbia",
+        "lat": 44.7500,
+        "lng": 21.5167
+    },
+    {
+        "type": "city",
+        "name": "Bitin, Montenegro",
+        "lat": 42.4000,
+        "lng": 19.3000
+    },
+    {
+        "type": "city",
+        "name": "Čačak, Serbia",
+        "lat": 43.8900,
+        "lng": 20.3500
+    },
+    {
+        "type": "city",
+        "name": "Sokobanja, Serbia",
+        "lat": 43.5000,
+        "lng": 21.8000
+    },
+    {
+        "type": "city",
+        "name": "Dimitrovgrad, Serbia",
+        "lat": 42.9000,
+        "lng": 22.6167
+    },
+    {
+        "type": "city",
+        "name": "Valjevo, Serbia",
+        "lat": 44.2667,
+        "lng": 19.9167
+    },
+    {
+        "type": "city",
+        "name": "Casablanca, Morocco",
+        "lat": 33.5736,
+        "lng": -7.5898
+    },
+    {
+        "type": "city",
+        "name": "Rabat, Morocco",
+        "lat": 34.0206,
+        "lng": -6.8416
+    },
+    {
+        "type": "city",
+        "name": "Fez, Morocco",
+        "lat": 34.0209,
+        "lng": -4.9998
+    },
+    {
+        "type": "city",
+        "name": "Marrakech, Morocco",
+        "lat": 31.6295,
+        "lng": -7.9811
+    },
+    {
+        "type": "city",
+        "name": "Tangier, Morocco",
+        "lat": 35.7595,
+        "lng": -5.8330
+    },
+    {
+        "type": "city",
+        "name": "Meknes, Morocco",
+        "lat": 33.8938,
+        "lng": -5.5510
+    },
+    {
+        "type": "city",
+        "name": "El Jadida, Morocco",
+        "lat": 33.2547,
+        "lng": -8.5069
+    },
+    {
+        "type": "place",
+        "name": "Povlen, Serbia",
+        "lat": 44.1415,
+        "lng": 19.7120
+    },
+    {
+        "type": "place",
+        "name": "Lazar's Canyon, Serbia",
+        "lat": 44.018,
+        "lng": 21.923
+    },
+    {
+        "type": "place",
+        "name": "Jablanik, Serbia",
+        "lat": 44.1759,
+        "lng": 19.6667
+    },
+    {
+        "type": "place",
+        "name": "Medvednik, Serbia",
+        "lat": 44.2101,
+        "lng": 19.6375
+    },
+    {
+        "type": "place",
+        "name": "Tornicka Bobija, Serbia",
+        "lat": 44.1969,
+        "lng": 19.3147
+    },
+    {
+        "type": "place",
+        "name": "Rovni Lake, Serbia",
+        "lat": 44.233,
+        "lng": 19.75
+    },
+    {
+        "type": "place",
+        "name": "Kosmaj, Serbia",
+        "lat": 44.465,
+        "lng": 20.563
+    },
+    {
+        "type": "place",
+        "name": "Magleš, Serbia",
+        "lat": 44.1484,
+        "lng": 19.8420
+    },
+    {
+        "type": "place",
+        "name": "Čigota, Serbia",
+        "lat": 43.735,
+        "lng": 19.707
+    },
+    {
+        "type": "place",
+        "name": "Maglić, Serbia",
+        "lat": 43.2811,
+        "lng": 18.7369
+    },
+    {
+        "type": "place",
+        "name": "South Kucaj, Serbia",
+        "lat": 44.182,
+        "lng": 21.853
+    },
+    {
+        "type": "place",
+        "name": "Gvozdicka Stena, Serbia",
+        "lat": 44.194,
+        "lng": 19.512
+    },
+    {
+        "type": "place",
+        "name": "Lukin kamen, Serbia",
+        "lat": 42.850,
+        "lng": 22.116
     }
 ]
