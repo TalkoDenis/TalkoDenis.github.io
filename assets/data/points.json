@@ -217,12 +217,6 @@
     },
     {
         "type": "city",
-        "name": "Kurma, Russia",
-        "lat": null,
-        "lng": null
-    },
-    {
-        "type": "city",
         "name": "Kaliningrad, Russia",
         "lat": 54.7104,
         "lng": 20.4522
