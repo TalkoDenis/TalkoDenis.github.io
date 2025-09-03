@@ -6,6 +6,8 @@ permalink: /map/
 
 # Interactive Map
 
+I really love travelling ant there are places wrehe I have been.
+
 <div id="map"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
