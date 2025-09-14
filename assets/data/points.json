@@ -604,5 +604,23 @@
         "name": "Lukin kamen, Serbia",
         "lat": 42.850,
         "lng": 22.116
+    },
+    {
+        "type": "city",
+        "name": "Berlin, Germany",
+        "lat": 52.520,
+        "lng": 13.405
+    },
+    {
+        "type": "city",
+        "name": "Petrovac, Serbia",
+        "lat": 42.850,
+        "lng": 22.116
+    },
+    {
+        "type": "place",
+        "name": "Vukan, Serbia",
+        "lat": 42.289,
+        "lng": 21.541
     }
 ]
