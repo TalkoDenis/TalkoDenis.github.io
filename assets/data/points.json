@@ -614,13 +614,19 @@
     {
         "type": "city",
         "name": "Petrovac, Serbia",
-        "lat": 42.850,
-        "lng": 22.116
+        "lat": 43.725,
+        "lng": 20.069
     },
     {
         "type": "place",
         "name": "Vukan, Serbia",
         "lat": 42.289,
-        "lng": 21.541
+        "lng": 21.523
+    },
+    {
+        "type": "city",
+        "name": "Kikinda, Serbia",
+        "lat": 45.820,
+        "lng": 20.310
     }
 ]

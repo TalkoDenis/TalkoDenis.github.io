@@ -6,7 +6,7 @@ permalink: /map/
 
 # Interactive Map
 
-I really love travelling ant there are places wrehe I have been.
+I really love travelling and there are places wrehe I have been.
 
 <div id="map"></div>
 
