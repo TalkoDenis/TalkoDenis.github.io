@@ -628,5 +628,23 @@
         "name": "Kikinda, Serbia",
         "lat": 45.820,
         "lng": 20.310
+    },
+    {
+        "type": "place",
+        "name": "Devica mountain, Serbia",
+        "lat": 43.590,
+        "lng": 21.892
+    },
+    {
+        "type": "city",
+        "name": "Ada, Serbia",
+        "lat": 45.876,
+        "lng": 19.206
+    },
+    {
+        "type": "city",
+        "name": "Novo Miloševo, Serbia",
+        "lat": 45.705,
+        "lng": 20.202
     }
 ]
