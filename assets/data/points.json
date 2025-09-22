@@ -314,8 +314,8 @@
     {
         "type": "city",
         "name": "Bijelo Polje, Montenegro",
-        "lat": 43.0333,
-        "lng": 19.3000
+        "lat": 43.0372,
+        "lng": 19.7366
     },
     {
         "type": "city",
@@ -584,8 +584,8 @@
     {
         "type": "place",
         "name": "Maglić, Serbia",
-        "lat": 43.2811,
-        "lng": 18.7369
+        "lat": 43.6084,
+        "lng": 20.5101
     },
     {
         "type": "place",
@@ -620,7 +620,7 @@
     {
         "type": "place",
         "name": "Vukan, Serbia",
-        "lat": 42.289,
+        "lat": 44.289,
         "lng": 21.523
     },
     {
